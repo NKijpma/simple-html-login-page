@@ -1,12 +1,12 @@
 :root{
     /* Color Palette */
-    --Background-color: #0B1120
-    --Card-color: #111827
-    --Primary-Button-color: #F97316
-    --Button-Hover-color: #EA580C
-    --Text-Primary-color: #F9FAFB
-    --Text-Secondary-color: #9CA3AF
-    --Input-Border-color: #1F2937
+    --Background-color: #0B1120;
+    --Card-color: #111827;
+    --Primary-Button-color: #F97316;
+    --Button-Hover-color: #EA580C;
+    --Text-Primary-color: #F9FAFB;
+    --Text-Secondary-color: #9CA3AF;
+    --Input-Border-color: #1F2937;
 
     /* Font Sizes */
     --Font-Size-Small: 0.875rem; /* 14px */
@@ -18,4 +18,5 @@
     --Border-Radius-Small: 0.25rem; /* 4px */
     --Border-Radius-Medium: 0.5rem; /* 8px */
     --Border-Radius-Circle: 50%;
+
 }
