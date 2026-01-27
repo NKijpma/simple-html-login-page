@@ -6,6 +6,7 @@ Repository van [**NKijpma**](https://github.com/NKijpma), [**DMulder**](https://
   <strong> preview image </strong>
  </summary>
 
-### W.I.P
+![Main Login Page Preview](ico&images/main-login-page.png)
+
 
  </details>
